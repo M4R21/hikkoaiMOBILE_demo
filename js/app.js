@@ -8,7 +8,7 @@ const App = (() => {
 
     // ===== 設定 =====
     // ※後ほど新しいGitHubリポジトリのURLに変更する場合は、ここを書き換えてください。
-    const GITHUB_REPO_URL = 'https://github.com/M4R21/hikkosiMOBIL';
+    const GITHUB_REPO_URL = 'https://github.com/M4R21/hikkoaiMOBILE_demo';
 
     // GitHubリポジトリURLからrawコンテンツのベースURLを生成するヘルパー
     function getGithubRawBaseUrl(repoUrl) {
